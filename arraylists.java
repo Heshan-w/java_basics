@@ -31,6 +31,7 @@ public class arraylists {
         // removing an item from the arraylist
         cars.remove(3);
         cars.remove("Audi");
+        cars.remove("Ferrari");
         System.out.println(cars);
     }
 }
