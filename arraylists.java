@@ -33,7 +33,7 @@ public class arraylists {
         cars.remove("Audi");
         cars.remove("Ferrari");
         cars.remove("Honda");
-        System.out.println(cars.size());
+        System.out.println("size of 'cars' arraylist : " + cars.size());
         System.out.println(cars);
     }
 }
