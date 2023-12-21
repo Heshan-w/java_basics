@@ -32,6 +32,7 @@ public class arraylists {
         cars.remove(3);
         cars.remove("Audi");
         cars.remove("Ferrari");
+        cars.remove("Honda");
         System.out.println(cars);
     }
 }
